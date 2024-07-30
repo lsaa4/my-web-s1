@@ -1,0 +1,2 @@
+你的机器还没有绑定公网IP，请使用NAT端口映射内网8889端口到外部,并访问: 对外地址:端口/rainy
+面板用户名: rainyun    密码: oYSMxtpEPi31PhHX

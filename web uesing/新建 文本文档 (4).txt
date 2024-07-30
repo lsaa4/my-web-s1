@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>一个网站</title>
+
+</head>
+<body>
+   
+    <div class="container" style="width:1080px">
+        这里是<a href="https://space.bilibili.com/1024614258?spm_id_from=333.999.0.0">KKMI</a>.<br>
+        <hr />
+        <h3>    QAQ    </h3>
+        <ul>
+            <li>网站功能恢复中</li>
+            <li>请耐心等待</li>
+            <li>《大声哭闹》</li>
+            <img src="OIP-C.jpg" />
+                         <li>关于我</li>
+    <a href="https://space.bilibili.com/1024614258?spm_id_from=333.1007.0.0">bilibili</a>     <a href="https://github.com/lsaa4">Github</a>  
+    <li>如可可以请帮我给APEX一个差评谢谢💕💕💕💕💕💕💕💕💕</li>
+    <a href="https://store.steampowered.com/app/1172470/Apex_Legends/">Apex Legends™</a>
+        </ul>
+    </div>
+</body>
+</html>
